@@ -1,2 +1,8 @@
-# Faculty-Feedback-System-PHP-MySQL
-Web-based Faculty Feedback System built using PHP, MySQL, and XAMPP. Includes admin login, faculty &amp; student management, subject-wise feedback, and Excel-based student import.
+# Teacher-Student-Feedback-System
+* Admin Login:
+Username : Admin
+Password : admin
+
+* Student Login:
+Username : <!-- enter student roll number -->
+Password : <!-- enter student email id -->
